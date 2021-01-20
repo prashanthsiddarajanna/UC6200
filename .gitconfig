@@ -4,6 +4,7 @@
 	process = git-lfs filter-process
 	required = true
 [http]
-	proxy = bnym-proxy.bnymellon.net:8080
+	proxy = pue04pxint02 .bnymellon.net:8080
+
 [credential]
 	helper = wincred
